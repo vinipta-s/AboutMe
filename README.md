@@ -11,7 +11,7 @@ Welcome to my GitHub profile! As a student in a Data Science bootcamp I have lea
 
 
 ## Skills
-[Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-000?&logo=pandas)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=Tableau)
