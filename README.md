@@ -15,7 +15,7 @@ Welcome to my GitHub profile! As a student in a Data Science bootcamp I have lea
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-000?&logo=pandas)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=Tableau)
+![Natural Language Processing](https://img.shields.io/badge/-NLP-000?&logo=Spacy)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Text Processing](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
